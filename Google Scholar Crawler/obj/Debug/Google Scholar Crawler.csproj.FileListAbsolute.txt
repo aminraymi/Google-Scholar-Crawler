@@ -1,0 +1,13 @@
+C:\Users\Amin\documents\visual studio 2013\Projects\Google Scholar Crawler\Google Scholar Crawler\bin\Debug\Google Scholar Crawler.exe.config
+C:\Users\Amin\documents\visual studio 2013\Projects\Google Scholar Crawler\Google Scholar Crawler\bin\Debug\Google Scholar Crawler.exe
+C:\Users\Amin\documents\visual studio 2013\Projects\Google Scholar Crawler\Google Scholar Crawler\bin\Debug\Google Scholar Crawler.pdb
+C:\Users\Amin\documents\visual studio 2013\Projects\Google Scholar Crawler\Google Scholar Crawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Amin\documents\visual studio 2013\Projects\Google Scholar Crawler\Google Scholar Crawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Amin\documents\visual studio 2013\Projects\Google Scholar Crawler\Google Scholar Crawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Amin\documents\visual studio 2013\Projects\Google Scholar Crawler\Google Scholar Crawler\obj\Debug\Google_Scholar_Crawler.AboutForm.resources
+C:\Users\Amin\documents\visual studio 2013\Projects\Google Scholar Crawler\Google Scholar Crawler\obj\Debug\Google_Scholar_Crawler.Crawler.resources
+C:\Users\Amin\documents\visual studio 2013\Projects\Google Scholar Crawler\Google Scholar Crawler\obj\Debug\Google_Scholar_Crawler.Properties.Resources.resources
+C:\Users\Amin\documents\visual studio 2013\Projects\Google Scholar Crawler\Google Scholar Crawler\obj\Debug\Google_Scholar_Crawler.SettingsForm.resources
+C:\Users\Amin\documents\visual studio 2013\Projects\Google Scholar Crawler\Google Scholar Crawler\obj\Debug\Google Scholar Crawler.csproj.GenerateResource.Cache
+C:\Users\Amin\documents\visual studio 2013\Projects\Google Scholar Crawler\Google Scholar Crawler\obj\Debug\Google Scholar Crawler.exe
+C:\Users\Amin\documents\visual studio 2013\Projects\Google Scholar Crawler\Google Scholar Crawler\obj\Debug\Google Scholar Crawler.pdb
