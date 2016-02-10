@@ -1,5 +1,5 @@
 # Google Scholar Crawler
-Google scholar crawler can extract pdf links and citations (BibTeX) from google scholar and save to CSV file
+Google scholar crawler can extracts pdf links and citations (BibTeX) from google scholar and saves to CSV file
 
 ## Prerequisites
 
